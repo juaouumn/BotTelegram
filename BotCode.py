@@ -13,7 +13,7 @@ TELEGRAM_TOKEN = "Coloque seu token telegram aqui"
 
 # LISTA DE USUÁRIOS AUTORIZADOS
 
-AUTHORIZED_USER_IDS = [7348582799] 
+AUTHORIZED_USER_IDS = ["Coloque seu id do telegram aqui"] 
 
 # --- CHAVE DE API DO GROQ ---
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "Coloque seu API groq aqui")
